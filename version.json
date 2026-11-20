@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "title": "First release",
+  "notes": [
+    [
+      "new",
+      "Google-style clock with live weather, forecast and air quality"
+    ],
+    [
+      "new",
+      "Calendar, Gmail and Drive photos"
+    ],
+    [
+      "new",
+      "Android TV layout with remote control"
+    ],
+    [
+      "new",
+      "Apps launcher with YouTube and Maps windows"
+    ],
+    [
+      "new",
+      "Update log and updater from GitHub or Drive"
+    ]
+  ]
+}
